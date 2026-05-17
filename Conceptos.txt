@@ -1,2 +1,0 @@
-# Conceptos Básicos
-Este documento es para escribir los principios en que voy a desarrollar.
